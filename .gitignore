@@ -13,3 +13,5 @@ yarn-error.log
 /.firebase
 
 .idea/
+.yarn/
+.yarnrc.yml
